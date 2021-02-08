@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  margin: 2% 0;
+}
+
+.title {
+  font-size: 2.5em;
+  margin-top: 40px;
+  font-family: "Slabo 27px", serif;
+  color: grey;
+  background-color: whitesmoke;
+}
